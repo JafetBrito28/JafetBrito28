@@ -2,7 +2,7 @@
 - 👀 I’m interested in I am interested in developing software and digital solutions.
 - 🌱 I’m currently learning web development and software development
 - 💞️ I’m looking to collaborate on W3
-- 📫 How to reach me http://jafetbrito.com 
+- 📫 How to reach me http://jafetbrito.tech 
 
 <!---
 JafetBrito28/JafetBrito28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
